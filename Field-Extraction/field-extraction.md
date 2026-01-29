@@ -1,1 +1,4 @@
+## FIELD EXTRACTION CONFIGURATION
+This report outlines the procedure and outcome of creating a custom field extraction in Splunk to isolate and analyse source IP addresses captured within the OpenSSH event. 
+The extraction process was performed using Splunk’s built-in field extractor and delimiter-based parsing capability. The resulting field, src_ip enables visibility into all originating IP addresses present in the dataset and supports further security analysis.
 
