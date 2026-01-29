@@ -48,4 +48,4 @@ AND
 
 
 source="OpenSSH.csv" host="si-i-03b61620c7fa0d684.prd-p-zpb7y.splunkcloud.com" index="main" sourcetype="csv" "Received disconnect from 103.99.0.122" | stats count
-<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/d83bae70-5a21-4fca-88f6-277a502e1105" />
+
